@@ -1,6 +1,5 @@
   ## Hi👋.I'm Ayla Ekici
 
-Let me introduce myself:
 
 <br>I'm currently learning Front-End.<br>I'm fully motivated about learning software and improving myself <br>The projects I have done  was created using HTML and CSS<br>My first priority is to learn it thoroughly to make my projects short and concise<br>I'm looking forward to new projects to gather experience and new knowledge<br><br>You can contact me :  ekcayla@gmail.com<br><br><br>
 
